@@ -10,11 +10,10 @@ data = BeautifulSoup(page,'html.parser')
 table_attribs = ['ISO_3166_alpha2', 'ISO_3166_alpha3', 'ISO_3166_numeric', 'fips', 'Country', 'Capital', 'Area in km2', 'Population', 'Continent']
 df = pd.DataFrame(columns=table_attribs)
 tables = data.find_all('table')
-print(len(tables))
 tgt_table = tables[1]
 
 rows = tgt_table.find_all('tr')[1:]
-print(rows[2])
+
 for row in rows:
     count = 0
     col = row.find_all('td')
