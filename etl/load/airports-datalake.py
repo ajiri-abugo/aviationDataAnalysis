@@ -8,7 +8,7 @@ from config.mongoconnect import get_mongo_db  # Import the connection function
 db, client = get_mongo_db()
 
 # Select collection
-#collection = db["test_airports"]
+#collection = db["test_airport"]
 collection = db["airports"]
 
 # Path to the JSON file
@@ -21,6 +21,7 @@ with open(json_file_path, "r") as file:
 
 # Convert dictionary of dictionaries to a list of dictionaries
 airport_list = [{"_id": code, **details} for code, details in data.items()]
+total_no = len(airport_list)
 
 # Insert the transformed data into MongoDB
 try:
@@ -28,8 +29,10 @@ try:
     collection.insert_many(airport_list, ordered=False)
     doc_count = collection.count_documents({})  # Count total documents in the collection
     print(f"Total number of documents in collection: {doc_count}")
-    if doc_count > 0:
+    if doc_count == total_no:
         print("Data successfully inserted into MongoDB.")
+    else:
+        print("some inserts not successful, some duplicates exist")
 except Exception as e:
     print(f"Error inserting data into MongoDB: {e}")
     
