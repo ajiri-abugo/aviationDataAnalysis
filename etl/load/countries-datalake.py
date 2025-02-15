@@ -25,16 +25,23 @@ print(f"The JSON file has {line_count} lines.")
 
 # Insert data (handling line-separated JSON)
 with open(json_file_path, "r") as file:
+    successful_inserts = 0
     for line in file:
         try:
             document = json.loads(line)  # Read each line as a separate JSON document
             collection.insert_one(document)  # Insert into MongoDB
+            successful_inserts += 1
             doc_count = collection.count_documents({})  # Count total documents in the collection
             #print(f"Total number of documents in collection: {doc_count}")
-            if doc_count == line_count:
-                print("Data successfully inserted into MongoDB.")
         except json.JSONDecodeError as e:
             print(f"Skipping invalid JSON line: {line} - Error: {e}")
+        except Exception as e:
+            print(f"Error inserting document: {e}")
+
+if successful_inserts == line_count:
+    print("All documents successfully inserted into MongoDB.")
+else:
+    print(f"Some inserts failed. Successful inserts: {successful_inserts}/{line_count}")
 
 print("Closing the connection.")
 try:
