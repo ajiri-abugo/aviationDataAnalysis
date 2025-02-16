@@ -1,0 +1,250 @@
+{"ISO_3166_alpha2":"AD","ISO_3166_alpha3":"AND","ISO_3166_numeric":"020","fips":"AN","Country":"Andorra","Capital":"Andorra la Vella","Area in km2":"468.0","Population":"77006","Continent":"EU"}
+{"ISO_3166_alpha2":"AE","ISO_3166_alpha3":"ARE","ISO_3166_numeric":"784","fips":"AE","Country":"United Arab Emirates","Capital":"Abu Dhabi","Area in km2":"82880.0","Population":"9630959","Continent":"AS"}
+{"ISO_3166_alpha2":"AF","ISO_3166_alpha3":"AFG","ISO_3166_numeric":"004","fips":"AF","Country":"Afghanistan","Capital":"Kabul","Area in km2":"647500.0","Population":"37172386","Continent":"AS"}
+{"ISO_3166_alpha2":"AG","ISO_3166_alpha3":"ATG","ISO_3166_numeric":"028","fips":"AC","Country":"Antigua and Barbuda","Capital":"St. John's","Area in km2":"443.0","Population":"96286","Continent":"NA"}
+{"ISO_3166_alpha2":"AI","ISO_3166_alpha3":"AIA","ISO_3166_numeric":"660","fips":"AV","Country":"Anguilla","Capital":"The Valley","Area in km2":"102.0","Population":"13254","Continent":"NA"}
+{"ISO_3166_alpha2":"AL","ISO_3166_alpha3":"ALB","ISO_3166_numeric":"008","fips":"AL","Country":"Albania","Capital":"Tirana","Area in km2":"28748.0","Population":"2866376","Continent":"EU"}
+{"ISO_3166_alpha2":"AM","ISO_3166_alpha3":"ARM","ISO_3166_numeric":"051","fips":"AM","Country":"Armenia","Capital":"Yerevan","Area in km2":"29800.0","Population":"2991200","Continent":"AS"}
+{"ISO_3166_alpha2":"AO","ISO_3166_alpha3":"AGO","ISO_3166_numeric":"024","fips":"AO","Country":"Angola","Capital":"Luanda","Area in km2":"1246700.0","Population":"30809762","Continent":"AF"}
+{"ISO_3166_alpha2":"AQ","ISO_3166_alpha3":"ATA","ISO_3166_numeric":"010","fips":"AY","Country":"Antarctica","Capital":"","Area in km2":"14000000.0","Population":"0","Continent":"AN"}
+{"ISO_3166_alpha2":"AR","ISO_3166_alpha3":"ARG","ISO_3166_numeric":"032","fips":"AR","Country":"Argentina","Capital":"Buenos Aires","Area in km2":"2766890.0","Population":"44494502","Continent":"SA"}
+{"ISO_3166_alpha2":"AS","ISO_3166_alpha3":"ASM","ISO_3166_numeric":"016","fips":"AQ","Country":"American Samoa","Capital":"Pago Pago","Area in km2":"199.0","Population":"55465","Continent":"OC"}
+{"ISO_3166_alpha2":"AT","ISO_3166_alpha3":"AUT","ISO_3166_numeric":"040","fips":"AU","Country":"Austria","Capital":"Vienna","Area in km2":"83858.0","Population":"8847037","Continent":"EU"}
+{"ISO_3166_alpha2":"AU","ISO_3166_alpha3":"AUS","ISO_3166_numeric":"036","fips":"AS","Country":"Australia","Capital":"Canberra","Area in km2":"7686850.0","Population":"24992369","Continent":"OC"}
+{"ISO_3166_alpha2":"AW","ISO_3166_alpha3":"ABW","ISO_3166_numeric":"533","fips":"AA","Country":"Aruba","Capital":"Oranjestad","Area in km2":"193.0","Population":"105845","Continent":"NA"}
+{"ISO_3166_alpha2":"AX","ISO_3166_alpha3":"ALA","ISO_3166_numeric":"248","fips":"","Country":"\u00c5land","Capital":"Mariehamn","Area in km2":"1580.0","Population":"26711","Continent":"EU"}
+{"ISO_3166_alpha2":"AZ","ISO_3166_alpha3":"AZE","ISO_3166_numeric":"031","fips":"AJ","Country":"Azerbaijan","Capital":"Baku","Area in km2":"86600.0","Population":"9942334","Continent":"AS"}
+{"ISO_3166_alpha2":"BA","ISO_3166_alpha3":"BIH","ISO_3166_numeric":"070","fips":"BK","Country":"Bosnia and Herzegovina","Capital":"Sarajevo","Area in km2":"51129.0","Population":"3323929","Continent":"EU"}
+{"ISO_3166_alpha2":"BB","ISO_3166_alpha3":"BRB","ISO_3166_numeric":"052","fips":"BB","Country":"Barbados","Capital":"Bridgetown","Area in km2":"431.0","Population":"286641","Continent":"NA"}
+{"ISO_3166_alpha2":"BD","ISO_3166_alpha3":"BGD","ISO_3166_numeric":"050","fips":"BG","Country":"Bangladesh","Capital":"Dhaka","Area in km2":"144000.0","Population":"161356039","Continent":"AS"}
+{"ISO_3166_alpha2":"BE","ISO_3166_alpha3":"BEL","ISO_3166_numeric":"056","fips":"BE","Country":"Belgium","Capital":"Brussels","Area in km2":"30510.0","Population":"11422068","Continent":"EU"}
+{"ISO_3166_alpha2":"BF","ISO_3166_alpha3":"BFA","ISO_3166_numeric":"854","fips":"UV","Country":"Burkina Faso","Capital":"Ouagadougou","Area in km2":"274200.0","Population":"19751535","Continent":"AF"}
+{"ISO_3166_alpha2":"BG","ISO_3166_alpha3":"BGR","ISO_3166_numeric":"100","fips":"BU","Country":"Bulgaria","Capital":"Sofia","Area in km2":"110910.0","Population":"7000039","Continent":"EU"}
+{"ISO_3166_alpha2":"BH","ISO_3166_alpha3":"BHR","ISO_3166_numeric":"048","fips":"BA","Country":"Bahrain","Capital":"Manama","Area in km2":"665.0","Population":"1569439","Continent":"AS"}
+{"ISO_3166_alpha2":"BI","ISO_3166_alpha3":"BDI","ISO_3166_numeric":"108","fips":"BY","Country":"Burundi","Capital":"Gitega","Area in km2":"27830.0","Population":"11175378","Continent":"AF"}
+{"ISO_3166_alpha2":"BJ","ISO_3166_alpha3":"BEN","ISO_3166_numeric":"204","fips":"BN","Country":"Benin","Capital":"Porto-Novo","Area in km2":"112620.0","Population":"11485048","Continent":"AF"}
+{"ISO_3166_alpha2":"BL","ISO_3166_alpha3":"BLM","ISO_3166_numeric":"652","fips":"TB","Country":"Saint Barth\u00e9lemy","Capital":"Gustavia","Area in km2":"21.0","Population":"8450","Continent":"NA"}
+{"ISO_3166_alpha2":"BM","ISO_3166_alpha3":"BMU","ISO_3166_numeric":"060","fips":"BD","Country":"Bermuda","Capital":"Hamilton","Area in km2":"53.0","Population":"63968","Continent":"NA"}
+{"ISO_3166_alpha2":"BN","ISO_3166_alpha3":"BRN","ISO_3166_numeric":"096","fips":"BX","Country":"Brunei","Capital":"Bandar Seri Begawan","Area in km2":"5770.0","Population":"428962","Continent":"AS"}
+{"ISO_3166_alpha2":"BO","ISO_3166_alpha3":"BOL","ISO_3166_numeric":"068","fips":"BL","Country":"Bolivia","Capital":"Sucre","Area in km2":"1098580.0","Population":"11353142","Continent":"SA"}
+{"ISO_3166_alpha2":"BQ","ISO_3166_alpha3":"BES","ISO_3166_numeric":"535","fips":"","Country":"Bonaire, Sint Eustatius, and Saba","Capital":"","Area in km2":"328.0","Population":"18012","Continent":"NA"}
+{"ISO_3166_alpha2":"BR","ISO_3166_alpha3":"BRA","ISO_3166_numeric":"076","fips":"BR","Country":"Brazil","Capital":"Brasilia","Area in km2":"8511965.0","Population":"209469333","Continent":"SA"}
+{"ISO_3166_alpha2":"BS","ISO_3166_alpha3":"BHS","ISO_3166_numeric":"044","fips":"BF","Country":"Bahamas","Capital":"Nassau","Area in km2":"13940.0","Population":"385640","Continent":"NA"}
+{"ISO_3166_alpha2":"BT","ISO_3166_alpha3":"BTN","ISO_3166_numeric":"064","fips":"BT","Country":"Bhutan","Capital":"Thimphu","Area in km2":"47000.0","Population":"754394","Continent":"AS"}
+{"ISO_3166_alpha2":"BV","ISO_3166_alpha3":"BVT","ISO_3166_numeric":"074","fips":"BV","Country":"Bouvet Island","Capital":"","Area in km2":"49.0","Population":"0","Continent":"AN"}
+{"ISO_3166_alpha2":"BW","ISO_3166_alpha3":"BWA","ISO_3166_numeric":"072","fips":"BC","Country":"Botswana","Capital":"Gaborone","Area in km2":"600370.0","Population":"2254126","Continent":"AF"}
+{"ISO_3166_alpha2":"BY","ISO_3166_alpha3":"BLR","ISO_3166_numeric":"112","fips":"BO","Country":"Belarus","Capital":"Minsk","Area in km2":"207600.0","Population":"9485386","Continent":"EU"}
+{"ISO_3166_alpha2":"BZ","ISO_3166_alpha3":"BLZ","ISO_3166_numeric":"084","fips":"BH","Country":"Belize","Capital":"Belmopan","Area in km2":"22966.0","Population":"383071","Continent":"NA"}
+{"ISO_3166_alpha2":"CA","ISO_3166_alpha3":"CAN","ISO_3166_numeric":"124","fips":"CA","Country":"Canada","Capital":"Ottawa","Area in km2":"9984670.0","Population":"37058856","Continent":"NA"}
+{"ISO_3166_alpha2":"CC","ISO_3166_alpha3":"CCK","ISO_3166_numeric":"166","fips":"CK","Country":"Cocos (Keeling) Islands","Capital":"West Island","Area in km2":"14.0","Population":"628","Continent":"AS"}
+{"ISO_3166_alpha2":"CD","ISO_3166_alpha3":"COD","ISO_3166_numeric":"180","fips":"CG","Country":"DR Congo","Capital":"Kinshasa","Area in km2":"2345410.0","Population":"84068091","Continent":"AF"}
+{"ISO_3166_alpha2":"CF","ISO_3166_alpha3":"CAF","ISO_3166_numeric":"140","fips":"CT","Country":"Central African Republic","Capital":"Bangui","Area in km2":"622984.0","Population":"4666377","Continent":"AF"}
+{"ISO_3166_alpha2":"CG","ISO_3166_alpha3":"COG","ISO_3166_numeric":"178","fips":"CF","Country":"Congo Republic","Capital":"Brazzaville","Area in km2":"342000.0","Population":"5244363","Continent":"AF"}
+{"ISO_3166_alpha2":"CH","ISO_3166_alpha3":"CHE","ISO_3166_numeric":"756","fips":"SZ","Country":"Switzerland","Capital":"Bern","Area in km2":"41290.0","Population":"8516543","Continent":"EU"}
+{"ISO_3166_alpha2":"CI","ISO_3166_alpha3":"CIV","ISO_3166_numeric":"384","fips":"IV","Country":"Ivory Coast","Capital":"Yamoussoukro","Area in km2":"322460.0","Population":"25069229","Continent":"AF"}
+{"ISO_3166_alpha2":"CK","ISO_3166_alpha3":"COK","ISO_3166_numeric":"184","fips":"CW","Country":"Cook Islands","Capital":"Avarua","Area in km2":"240.0","Population":"21388","Continent":"OC"}
+{"ISO_3166_alpha2":"CL","ISO_3166_alpha3":"CHL","ISO_3166_numeric":"152","fips":"CI","Country":"Chile","Capital":"Santiago","Area in km2":"756950.0","Population":"18729160","Continent":"SA"}
+{"ISO_3166_alpha2":"CM","ISO_3166_alpha3":"CMR","ISO_3166_numeric":"120","fips":"CM","Country":"Cameroon","Capital":"Yaounde","Area in km2":"475440.0","Population":"25216237","Continent":"AF"}
+{"ISO_3166_alpha2":"CN","ISO_3166_alpha3":"CHN","ISO_3166_numeric":"156","fips":"CH","Country":"China","Capital":"Beijing","Area in km2":"9596960.0","Population":"1411778724","Continent":"AS"}
+{"ISO_3166_alpha2":"CO","ISO_3166_alpha3":"COL","ISO_3166_numeric":"170","fips":"CO","Country":"Colombia","Capital":"Bogota","Area in km2":"1138910.0","Population":"49648685","Continent":"SA"}
+{"ISO_3166_alpha2":"CR","ISO_3166_alpha3":"CRI","ISO_3166_numeric":"188","fips":"CS","Country":"Costa Rica","Capital":"San Jose","Area in km2":"51100.0","Population":"4999441","Continent":"NA"}
+{"ISO_3166_alpha2":"CU","ISO_3166_alpha3":"CUB","ISO_3166_numeric":"192","fips":"CU","Country":"Cuba","Capital":"Havana","Area in km2":"110860.0","Population":"11338138","Continent":"NA"}
+{"ISO_3166_alpha2":"CV","ISO_3166_alpha3":"CPV","ISO_3166_numeric":"132","fips":"CV","Country":"Cabo Verde","Capital":"Praia","Area in km2":"4033.0","Population":"543767","Continent":"AF"}
+{"ISO_3166_alpha2":"CW","ISO_3166_alpha3":"CUW","ISO_3166_numeric":"531","fips":"UC","Country":"Cura\u00e7ao","Capital":"Willemstad","Area in km2":"444.0","Population":"159849","Continent":"NA"}
+{"ISO_3166_alpha2":"CX","ISO_3166_alpha3":"CXR","ISO_3166_numeric":"162","fips":"KT","Country":"Christmas Island","Capital":"Flying Fish Cove","Area in km2":"135.0","Population":"1500","Continent":"OC"}
+{"ISO_3166_alpha2":"CY","ISO_3166_alpha3":"CYP","ISO_3166_numeric":"196","fips":"CY","Country":"Cyprus","Capital":"Nicosia","Area in km2":"9250.0","Population":"1189265","Continent":"EU"}
+{"ISO_3166_alpha2":"CZ","ISO_3166_alpha3":"CZE","ISO_3166_numeric":"203","fips":"EZ","Country":"Czechia","Capital":"Prague","Area in km2":"78866.0","Population":"10625695","Continent":"EU"}
+{"ISO_3166_alpha2":"DE","ISO_3166_alpha3":"DEU","ISO_3166_numeric":"276","fips":"GM","Country":"Germany","Capital":"Berlin","Area in km2":"357021.0","Population":"82927922","Continent":"EU"}
+{"ISO_3166_alpha2":"DJ","ISO_3166_alpha3":"DJI","ISO_3166_numeric":"262","fips":"DJ","Country":"Djibouti","Capital":"Djibouti","Area in km2":"23000.0","Population":"958920","Continent":"AF"}
+{"ISO_3166_alpha2":"DK","ISO_3166_alpha3":"DNK","ISO_3166_numeric":"208","fips":"DA","Country":"Denmark","Capital":"Copenhagen","Area in km2":"43094.0","Population":"5797446","Continent":"EU"}
+{"ISO_3166_alpha2":"DM","ISO_3166_alpha3":"DMA","ISO_3166_numeric":"212","fips":"DO","Country":"Dominica","Capital":"Roseau","Area in km2":"754.0","Population":"71625","Continent":"NA"}
+{"ISO_3166_alpha2":"DO","ISO_3166_alpha3":"DOM","ISO_3166_numeric":"214","fips":"DR","Country":"Dominican Republic","Capital":"Santo Domingo","Area in km2":"48730.0","Population":"10627165","Continent":"NA"}
+{"ISO_3166_alpha2":"DZ","ISO_3166_alpha3":"DZA","ISO_3166_numeric":"012","fips":"AG","Country":"Algeria","Capital":"Algiers","Area in km2":"2381740.0","Population":"42228429","Continent":"AF"}
+{"ISO_3166_alpha2":"EC","ISO_3166_alpha3":"ECU","ISO_3166_numeric":"218","fips":"EC","Country":"Ecuador","Capital":"Quito","Area in km2":"283560.0","Population":"17084357","Continent":"SA"}
+{"ISO_3166_alpha2":"EE","ISO_3166_alpha3":"EST","ISO_3166_numeric":"233","fips":"EN","Country":"Estonia","Capital":"Tallinn","Area in km2":"45226.0","Population":"1320884","Continent":"EU"}
+{"ISO_3166_alpha2":"EG","ISO_3166_alpha3":"EGY","ISO_3166_numeric":"818","fips":"EG","Country":"Egypt","Capital":"Cairo","Area in km2":"1001450.0","Population":"98423595","Continent":"AF"}
+{"ISO_3166_alpha2":"EH","ISO_3166_alpha3":"ESH","ISO_3166_numeric":"732","fips":"WI","Country":"Western Sahara","Capital":"El-Aaiun","Area in km2":"266000.0","Population":"273008","Continent":"AF"}
+{"ISO_3166_alpha2":"ER","ISO_3166_alpha3":"ERI","ISO_3166_numeric":"232","fips":"ER","Country":"Eritrea","Capital":"Asmara","Area in km2":"121320.0","Population":"6209262","Continent":"AF"}
+{"ISO_3166_alpha2":"ES","ISO_3166_alpha3":"ESP","ISO_3166_numeric":"724","fips":"SP","Country":"Spain","Capital":"Madrid","Area in km2":"504782.0","Population":"46723749","Continent":"EU"}
+{"ISO_3166_alpha2":"ET","ISO_3166_alpha3":"ETH","ISO_3166_numeric":"231","fips":"ET","Country":"Ethiopia","Capital":"Addis Ababa","Area in km2":"1127127.0","Population":"109224559","Continent":"AF"}
+{"ISO_3166_alpha2":"FI","ISO_3166_alpha3":"FIN","ISO_3166_numeric":"246","fips":"FI","Country":"Finland","Capital":"Helsinki","Area in km2":"337030.0","Population":"5518050","Continent":"EU"}
+{"ISO_3166_alpha2":"FJ","ISO_3166_alpha3":"FJI","ISO_3166_numeric":"242","fips":"FJ","Country":"Fiji","Capital":"Suva","Area in km2":"18270.0","Population":"883483","Continent":"OC"}
+{"ISO_3166_alpha2":"FK","ISO_3166_alpha3":"FLK","ISO_3166_numeric":"238","fips":"FK","Country":"Falkland Islands","Capital":"Stanley","Area in km2":"12173.0","Population":"2638","Continent":"SA"}
+{"ISO_3166_alpha2":"FM","ISO_3166_alpha3":"FSM","ISO_3166_numeric":"583","fips":"FM","Country":"Micronesia","Capital":"Palikir","Area in km2":"702.0","Population":"112640","Continent":"OC"}
+{"ISO_3166_alpha2":"FO","ISO_3166_alpha3":"FRO","ISO_3166_numeric":"234","fips":"FO","Country":"Faroe Islands","Capital":"Torshavn","Area in km2":"1399.0","Population":"48497","Continent":"EU"}
+{"ISO_3166_alpha2":"FR","ISO_3166_alpha3":"FRA","ISO_3166_numeric":"250","fips":"FR","Country":"France","Capital":"Paris","Area in km2":"547030.0","Population":"66987244","Continent":"EU"}
+{"ISO_3166_alpha2":"GA","ISO_3166_alpha3":"GAB","ISO_3166_numeric":"266","fips":"GB","Country":"Gabon","Capital":"Libreville","Area in km2":"267667.0","Population":"2119275","Continent":"AF"}
+{"ISO_3166_alpha2":"GB","ISO_3166_alpha3":"GBR","ISO_3166_numeric":"826","fips":"UK","Country":"United Kingdom","Capital":"London","Area in km2":"244820.0","Population":"66488991","Continent":"EU"}
+{"ISO_3166_alpha2":"GD","ISO_3166_alpha3":"GRD","ISO_3166_numeric":"308","fips":"GJ","Country":"Grenada","Capital":"St. George's","Area in km2":"344.0","Population":"111454","Continent":"NA"}
+{"ISO_3166_alpha2":"GE","ISO_3166_alpha3":"GEO","ISO_3166_numeric":"268","fips":"GG","Country":"Georgia","Capital":"Tbilisi","Area in km2":"69700.0","Population":"3731000","Continent":"AS"}
+{"ISO_3166_alpha2":"GF","ISO_3166_alpha3":"GUF","ISO_3166_numeric":"254","fips":"FG","Country":"French Guiana","Capital":"Cayenne","Area in km2":"91000.0","Population":"195506","Continent":"SA"}
+{"ISO_3166_alpha2":"GG","ISO_3166_alpha3":"GGY","ISO_3166_numeric":"831","fips":"GK","Country":"Guernsey","Capital":"St Peter Port","Area in km2":"78.0","Population":"65228","Continent":"EU"}
+{"ISO_3166_alpha2":"GH","ISO_3166_alpha3":"GHA","ISO_3166_numeric":"288","fips":"GH","Country":"Ghana","Capital":"Accra","Area in km2":"239460.0","Population":"29767108","Continent":"AF"}
+{"ISO_3166_alpha2":"GI","ISO_3166_alpha3":"GIB","ISO_3166_numeric":"292","fips":"GI","Country":"Gibraltar","Capital":"Gibraltar","Area in km2":"6.5","Population":"33718","Continent":"EU"}
+{"ISO_3166_alpha2":"GL","ISO_3166_alpha3":"GRL","ISO_3166_numeric":"304","fips":"GL","Country":"Greenland","Capital":"Nuuk","Area in km2":"2166086.0","Population":"56025","Continent":"NA"}
+{"ISO_3166_alpha2":"GM","ISO_3166_alpha3":"GMB","ISO_3166_numeric":"270","fips":"GA","Country":"The Gambia","Capital":"Banjul","Area in km2":"11300.0","Population":"2280102","Continent":"AF"}
+{"ISO_3166_alpha2":"GN","ISO_3166_alpha3":"GIN","ISO_3166_numeric":"324","fips":"GV","Country":"Guinea","Capital":"Conakry","Area in km2":"245857.0","Population":"12414318","Continent":"AF"}
+{"ISO_3166_alpha2":"GP","ISO_3166_alpha3":"GLP","ISO_3166_numeric":"312","fips":"GP","Country":"Guadeloupe","Capital":"Basse-Terre","Area in km2":"1780.0","Population":"443000","Continent":"NA"}
+{"ISO_3166_alpha2":"GQ","ISO_3166_alpha3":"GNQ","ISO_3166_numeric":"226","fips":"EK","Country":"Equatorial Guinea","Capital":"Malabo","Area in km2":"28051.0","Population":"1308974","Continent":"AF"}
+{"ISO_3166_alpha2":"GR","ISO_3166_alpha3":"GRC","ISO_3166_numeric":"300","fips":"GR","Country":"Greece","Capital":"Athens","Area in km2":"131940.0","Population":"10727668","Continent":"EU"}
+{"ISO_3166_alpha2":"GS","ISO_3166_alpha3":"SGS","ISO_3166_numeric":"239","fips":"SX","Country":"South Georgia and South Sandwich Islands","Capital":"Grytviken","Area in km2":"3903.0","Population":"30","Continent":"AN"}
+{"ISO_3166_alpha2":"GT","ISO_3166_alpha3":"GTM","ISO_3166_numeric":"320","fips":"GT","Country":"Guatemala","Capital":"Guatemala City","Area in km2":"108890.0","Population":"17247807","Continent":"NA"}
+{"ISO_3166_alpha2":"GU","ISO_3166_alpha3":"GUM","ISO_3166_numeric":"316","fips":"GQ","Country":"Guam","Capital":"Hagatna","Area in km2":"549.0","Population":"165768","Continent":"OC"}
+{"ISO_3166_alpha2":"GW","ISO_3166_alpha3":"GNB","ISO_3166_numeric":"624","fips":"PU","Country":"Guinea-Bissau","Capital":"Bissau","Area in km2":"36120.0","Population":"1874309","Continent":"AF"}
+{"ISO_3166_alpha2":"GY","ISO_3166_alpha3":"GUY","ISO_3166_numeric":"328","fips":"GY","Country":"Guyana","Capital":"Georgetown","Area in km2":"214970.0","Population":"779004","Continent":"SA"}
+{"ISO_3166_alpha2":"HK","ISO_3166_alpha3":"HKG","ISO_3166_numeric":"344","fips":"HK","Country":"Hong Kong","Capital":"Hong Kong","Area in km2":"1092.0","Population":"7491609","Continent":"AS"}
+{"ISO_3166_alpha2":"HM","ISO_3166_alpha3":"HMD","ISO_3166_numeric":"334","fips":"HM","Country":"Heard and McDonald Islands","Capital":"","Area in km2":"412.0","Population":"0","Continent":"AN"}
+{"ISO_3166_alpha2":"HN","ISO_3166_alpha3":"HND","ISO_3166_numeric":"340","fips":"HO","Country":"Honduras","Capital":"Tegucigalpa","Area in km2":"112090.0","Population":"9587522","Continent":"NA"}
+{"ISO_3166_alpha2":"HR","ISO_3166_alpha3":"HRV","ISO_3166_numeric":"191","fips":"HR","Country":"Croatia","Capital":"Zagreb","Area in km2":"56542.0","Population":"3871833","Continent":"EU"}
+{"ISO_3166_alpha2":"HT","ISO_3166_alpha3":"HTI","ISO_3166_numeric":"332","fips":"HA","Country":"Haiti","Capital":"Port-au-Prince","Area in km2":"27750.0","Population":"11123176","Continent":"NA"}
+{"ISO_3166_alpha2":"HU","ISO_3166_alpha3":"HUN","ISO_3166_numeric":"348","fips":"HU","Country":"Hungary","Capital":"Budapest","Area in km2":"93030.0","Population":"9768785","Continent":"EU"}
+{"ISO_3166_alpha2":"ID","ISO_3166_alpha3":"IDN","ISO_3166_numeric":"360","fips":"ID","Country":"Indonesia","Capital":"Jakarta","Area in km2":"1919440.0","Population":"267663435","Continent":"AS"}
+{"ISO_3166_alpha2":"IE","ISO_3166_alpha3":"IRL","ISO_3166_numeric":"372","fips":"EI","Country":"Ireland","Capital":"Dublin","Area in km2":"70280.0","Population":"4853506","Continent":"EU"}
+{"ISO_3166_alpha2":"IL","ISO_3166_alpha3":"ISR","ISO_3166_numeric":"376","fips":"IS","Country":"Israel","Capital":"Jerusalem","Area in km2":"20770.0","Population":"8883800","Continent":"AS"}
+{"ISO_3166_alpha2":"IM","ISO_3166_alpha3":"IMN","ISO_3166_numeric":"833","fips":"IM","Country":"Isle of Man","Capital":"Douglas","Area in km2":"572.0","Population":"84077","Continent":"EU"}
+{"ISO_3166_alpha2":"IN","ISO_3166_alpha3":"IND","ISO_3166_numeric":"356","fips":"IN","Country":"India","Capital":"New Delhi","Area in km2":"3287590.0","Population":"1352617328","Continent":"AS"}
+{"ISO_3166_alpha2":"IO","ISO_3166_alpha3":"IOT","ISO_3166_numeric":"086","fips":"IO","Country":"British Indian Ocean Territory","Capital":"Diego Garcia","Area in km2":"60.0","Population":"4000","Continent":"AS"}
+{"ISO_3166_alpha2":"IQ","ISO_3166_alpha3":"IRQ","ISO_3166_numeric":"368","fips":"IZ","Country":"Iraq","Capital":"Baghdad","Area in km2":"437072.0","Population":"38433600","Continent":"AS"}
+{"ISO_3166_alpha2":"IR","ISO_3166_alpha3":"IRN","ISO_3166_numeric":"364","fips":"IR","Country":"Iran","Capital":"Tehran","Area in km2":"1648000.0","Population":"81800269","Continent":"AS"}
+{"ISO_3166_alpha2":"IS","ISO_3166_alpha3":"ISL","ISO_3166_numeric":"352","fips":"IC","Country":"Iceland","Capital":"Reykjavik","Area in km2":"103000.0","Population":"353574","Continent":"EU"}
+{"ISO_3166_alpha2":"IT","ISO_3166_alpha3":"ITA","ISO_3166_numeric":"380","fips":"IT","Country":"Italy","Capital":"Rome","Area in km2":"301230.0","Population":"60431283","Continent":"EU"}
+{"ISO_3166_alpha2":"JE","ISO_3166_alpha3":"JEY","ISO_3166_numeric":"832","fips":"JE","Country":"Jersey","Capital":"Saint Helier","Area in km2":"116.0","Population":"90812","Continent":"EU"}
+{"ISO_3166_alpha2":"JM","ISO_3166_alpha3":"JAM","ISO_3166_numeric":"388","fips":"JM","Country":"Jamaica","Capital":"Kingston","Area in km2":"10991.0","Population":"2934855","Continent":"NA"}
+{"ISO_3166_alpha2":"JO","ISO_3166_alpha3":"JOR","ISO_3166_numeric":"400","fips":"JO","Country":"Jordan","Capital":"Amman","Area in km2":"92300.0","Population":"9956011","Continent":"AS"}
+{"ISO_3166_alpha2":"JP","ISO_3166_alpha3":"JPN","ISO_3166_numeric":"392","fips":"JA","Country":"Japan","Capital":"Tokyo","Area in km2":"377835.0","Population":"126529100","Continent":"AS"}
+{"ISO_3166_alpha2":"KE","ISO_3166_alpha3":"KEN","ISO_3166_numeric":"404","fips":"KE","Country":"Kenya","Capital":"Nairobi","Area in km2":"582650.0","Population":"51393010","Continent":"AF"}
+{"ISO_3166_alpha2":"KG","ISO_3166_alpha3":"KGZ","ISO_3166_numeric":"417","fips":"KG","Country":"Kyrgyzstan","Capital":"Bishkek","Area in km2":"198500.0","Population":"6315800","Continent":"AS"}
+{"ISO_3166_alpha2":"KH","ISO_3166_alpha3":"KHM","ISO_3166_numeric":"116","fips":"CB","Country":"Cambodia","Capital":"Phnom Penh","Area in km2":"181040.0","Population":"16249798","Continent":"AS"}
+{"ISO_3166_alpha2":"KI","ISO_3166_alpha3":"KIR","ISO_3166_numeric":"296","fips":"KR","Country":"Kiribati","Capital":"Tarawa","Area in km2":"811.0","Population":"115847","Continent":"OC"}
+{"ISO_3166_alpha2":"KM","ISO_3166_alpha3":"COM","ISO_3166_numeric":"174","fips":"CN","Country":"Comoros","Capital":"Moroni","Area in km2":"2170.0","Population":"832322","Continent":"AF"}
+{"ISO_3166_alpha2":"KN","ISO_3166_alpha3":"KNA","ISO_3166_numeric":"659","fips":"SC","Country":"St Kitts and Nevis","Capital":"Basseterre","Area in km2":"261.0","Population":"52441","Continent":"NA"}
+{"ISO_3166_alpha2":"KP","ISO_3166_alpha3":"PRK","ISO_3166_numeric":"408","fips":"KN","Country":"North Korea","Capital":"Pyongyang","Area in km2":"120540.0","Population":"25549819","Continent":"AS"}
+{"ISO_3166_alpha2":"KR","ISO_3166_alpha3":"KOR","ISO_3166_numeric":"410","fips":"KS","Country":"South Korea","Capital":"Seoul","Area in km2":"98480.0","Population":"51635256","Continent":"AS"}
+{"ISO_3166_alpha2":"KW","ISO_3166_alpha3":"KWT","ISO_3166_numeric":"414","fips":"KU","Country":"Kuwait","Capital":"Kuwait City","Area in km2":"17820.0","Population":"4137309","Continent":"AS"}
+{"ISO_3166_alpha2":"KY","ISO_3166_alpha3":"CYM","ISO_3166_numeric":"136","fips":"CJ","Country":"Cayman Islands","Capital":"George Town","Area in km2":"262.0","Population":"64174","Continent":"NA"}
+{"ISO_3166_alpha2":"KZ","ISO_3166_alpha3":"KAZ","ISO_3166_numeric":"398","fips":"KZ","Country":"Kazakhstan","Capital":"Nur-Sultan","Area in km2":"2717300.0","Population":"18276499","Continent":"AS"}
+{"ISO_3166_alpha2":"LA","ISO_3166_alpha3":"LAO","ISO_3166_numeric":"418","fips":"LA","Country":"Laos","Capital":"Vientiane","Area in km2":"236800.0","Population":"7061507","Continent":"AS"}
+{"ISO_3166_alpha2":"LB","ISO_3166_alpha3":"LBN","ISO_3166_numeric":"422","fips":"LE","Country":"Lebanon","Capital":"Beirut","Area in km2":"10400.0","Population":"6848925","Continent":"AS"}
+{"ISO_3166_alpha2":"LC","ISO_3166_alpha3":"LCA","ISO_3166_numeric":"662","fips":"ST","Country":"Saint Lucia","Capital":"Castries","Area in km2":"616.0","Population":"181889","Continent":"NA"}
+{"ISO_3166_alpha2":"LI","ISO_3166_alpha3":"LIE","ISO_3166_numeric":"438","fips":"LS","Country":"Liechtenstein","Capital":"Vaduz","Area in km2":"160.0","Population":"37910","Continent":"EU"}
+{"ISO_3166_alpha2":"LK","ISO_3166_alpha3":"LKA","ISO_3166_numeric":"144","fips":"CE","Country":"Sri Lanka","Capital":"Colombo","Area in km2":"65610.0","Population":"21670000","Continent":"AS"}
+{"ISO_3166_alpha2":"LR","ISO_3166_alpha3":"LBR","ISO_3166_numeric":"430","fips":"LI","Country":"Liberia","Capital":"Monrovia","Area in km2":"111370.0","Population":"4818977","Continent":"AF"}
+{"ISO_3166_alpha2":"LS","ISO_3166_alpha3":"LSO","ISO_3166_numeric":"426","fips":"LT","Country":"Lesotho","Capital":"Maseru","Area in km2":"30355.0","Population":"2108132","Continent":"AF"}
+{"ISO_3166_alpha2":"LT","ISO_3166_alpha3":"LTU","ISO_3166_numeric":"440","fips":"LH","Country":"Lithuania","Capital":"Vilnius","Area in km2":"65200.0","Population":"2789533","Continent":"EU"}
+{"ISO_3166_alpha2":"LU","ISO_3166_alpha3":"LUX","ISO_3166_numeric":"442","fips":"LU","Country":"Luxembourg","Capital":"Luxembourg","Area in km2":"2586.0","Population":"607728","Continent":"EU"}
+{"ISO_3166_alpha2":"LV","ISO_3166_alpha3":"LVA","ISO_3166_numeric":"428","fips":"LG","Country":"Latvia","Capital":"Riga","Area in km2":"64589.0","Population":"1926542","Continent":"EU"}
+{"ISO_3166_alpha2":"LY","ISO_3166_alpha3":"LBY","ISO_3166_numeric":"434","fips":"LY","Country":"Libya","Capital":"Tripoli","Area in km2":"1759540.0","Population":"6678567","Continent":"AF"}
+{"ISO_3166_alpha2":"MA","ISO_3166_alpha3":"MAR","ISO_3166_numeric":"504","fips":"MO","Country":"Morocco","Capital":"Rabat","Area in km2":"446550.0","Population":"36029138","Continent":"AF"}
+{"ISO_3166_alpha2":"MC","ISO_3166_alpha3":"MCO","ISO_3166_numeric":"492","fips":"MN","Country":"Monaco","Capital":"Monaco","Area in km2":"1.9","Population":"38682","Continent":"EU"}
+{"ISO_3166_alpha2":"MD","ISO_3166_alpha3":"MDA","ISO_3166_numeric":"498","fips":"MD","Country":"Moldova","Capital":"Chisinau","Area in km2":"33843.0","Population":"3545883","Continent":"EU"}
+{"ISO_3166_alpha2":"ME","ISO_3166_alpha3":"MNE","ISO_3166_numeric":"499","fips":"MJ","Country":"Montenegro","Capital":"Podgorica","Area in km2":"14026.0","Population":"622345","Continent":"EU"}
+{"ISO_3166_alpha2":"MF","ISO_3166_alpha3":"MAF","ISO_3166_numeric":"663","fips":"RN","Country":"Saint Martin","Capital":"Marigot","Area in km2":"53.0","Population":"37264","Continent":"NA"}
+{"ISO_3166_alpha2":"MG","ISO_3166_alpha3":"MDG","ISO_3166_numeric":"450","fips":"MA","Country":"Madagascar","Capital":"Antananarivo","Area in km2":"587040.0","Population":"26262368","Continent":"AF"}
+{"ISO_3166_alpha2":"MH","ISO_3166_alpha3":"MHL","ISO_3166_numeric":"584","fips":"RM","Country":"Marshall Islands","Capital":"Majuro","Area in km2":"181.3","Population":"58413","Continent":"OC"}
+{"ISO_3166_alpha2":"MK","ISO_3166_alpha3":"MKD","ISO_3166_numeric":"807","fips":"MK","Country":"North Macedonia","Capital":"Skopje","Area in km2":"25333.0","Population":"2082958","Continent":"EU"}
+{"ISO_3166_alpha2":"ML","ISO_3166_alpha3":"MLI","ISO_3166_numeric":"466","fips":"ML","Country":"Mali","Capital":"Bamako","Area in km2":"1240000.0","Population":"19077690","Continent":"AF"}
+{"ISO_3166_alpha2":"MM","ISO_3166_alpha3":"MMR","ISO_3166_numeric":"104","fips":"BM","Country":"Myanmar","Capital":"Nay Pyi Taw","Area in km2":"678500.0","Population":"53708395","Continent":"AS"}
+{"ISO_3166_alpha2":"MN","ISO_3166_alpha3":"MNG","ISO_3166_numeric":"496","fips":"MG","Country":"Mongolia","Capital":"Ulaanbaatar","Area in km2":"1565000.0","Population":"3170208","Continent":"AS"}
+{"ISO_3166_alpha2":"MO","ISO_3166_alpha3":"MAC","ISO_3166_numeric":"446","fips":"MC","Country":"Macao","Capital":"Macao","Area in km2":"254.0","Population":"631636","Continent":"AS"}
+{"ISO_3166_alpha2":"MP","ISO_3166_alpha3":"MNP","ISO_3166_numeric":"580","fips":"CQ","Country":"Northern Mariana Islands","Capital":"Saipan","Area in km2":"477.0","Population":"56882","Continent":"OC"}
+{"ISO_3166_alpha2":"MQ","ISO_3166_alpha3":"MTQ","ISO_3166_numeric":"474","fips":"MB","Country":"Martinique","Capital":"Fort-de-France","Area in km2":"1100.0","Population":"432900","Continent":"NA"}
+{"ISO_3166_alpha2":"MR","ISO_3166_alpha3":"MRT","ISO_3166_numeric":"478","fips":"MR","Country":"Mauritania","Capital":"Nouakchott","Area in km2":"1030700.0","Population":"4403319","Continent":"AF"}
+{"ISO_3166_alpha2":"MS","ISO_3166_alpha3":"MSR","ISO_3166_numeric":"500","fips":"MH","Country":"Montserrat","Capital":"Plymouth","Area in km2":"102.0","Population":"9341","Continent":"NA"}
+{"ISO_3166_alpha2":"MT","ISO_3166_alpha3":"MLT","ISO_3166_numeric":"470","fips":"MT","Country":"Malta","Capital":"Valletta","Area in km2":"316.0","Population":"483530","Continent":"EU"}
+{"ISO_3166_alpha2":"MU","ISO_3166_alpha3":"MUS","ISO_3166_numeric":"480","fips":"MP","Country":"Mauritius","Capital":"Port Louis","Area in km2":"2040.0","Population":"1265303","Continent":"AF"}
+{"ISO_3166_alpha2":"MV","ISO_3166_alpha3":"MDV","ISO_3166_numeric":"462","fips":"MV","Country":"Maldives","Capital":"Male","Area in km2":"300.0","Population":"515696","Continent":"AS"}
+{"ISO_3166_alpha2":"MW","ISO_3166_alpha3":"MWI","ISO_3166_numeric":"454","fips":"MI","Country":"Malawi","Capital":"Lilongwe","Area in km2":"118480.0","Population":"17563749","Continent":"AF"}
+{"ISO_3166_alpha2":"MX","ISO_3166_alpha3":"MEX","ISO_3166_numeric":"484","fips":"MX","Country":"Mexico","Capital":"Mexico City","Area in km2":"1972550.0","Population":"126190788","Continent":"NA"}
+{"ISO_3166_alpha2":"MY","ISO_3166_alpha3":"MYS","ISO_3166_numeric":"458","fips":"MY","Country":"Malaysia","Capital":"Kuala Lumpur","Area in km2":"329750.0","Population":"31528585","Continent":"AS"}
+{"ISO_3166_alpha2":"MZ","ISO_3166_alpha3":"MOZ","ISO_3166_numeric":"508","fips":"MZ","Country":"Mozambique","Capital":"Maputo","Area in km2":"801590.0","Population":"29495962","Continent":"AF"}
+{"ISO_3166_alpha2":"NA","ISO_3166_alpha3":"NAM","ISO_3166_numeric":"516","fips":"WA","Country":"Namibia","Capital":"Windhoek","Area in km2":"825418.0","Population":"2448255","Continent":"AF"}
+{"ISO_3166_alpha2":"NC","ISO_3166_alpha3":"NCL","ISO_3166_numeric":"540","fips":"NC","Country":"New Caledonia","Capital":"Noumea","Area in km2":"19060.0","Population":"284060","Continent":"OC"}
+{"ISO_3166_alpha2":"NE","ISO_3166_alpha3":"NER","ISO_3166_numeric":"562","fips":"NG","Country":"Niger","Capital":"Niamey","Area in km2":"1267000.0","Population":"22442948","Continent":"AF"}
+{"ISO_3166_alpha2":"NF","ISO_3166_alpha3":"NFK","ISO_3166_numeric":"574","fips":"NF","Country":"Norfolk Island","Capital":"Kingston","Area in km2":"34.6","Population":"1828","Continent":"OC"}
+{"ISO_3166_alpha2":"NG","ISO_3166_alpha3":"NGA","ISO_3166_numeric":"566","fips":"NI","Country":"Nigeria","Capital":"Abuja","Area in km2":"923768.0","Population":"195874740","Continent":"AF"}
+{"ISO_3166_alpha2":"NI","ISO_3166_alpha3":"NIC","ISO_3166_numeric":"558","fips":"NU","Country":"Nicaragua","Capital":"Managua","Area in km2":"129494.0","Population":"6465513","Continent":"NA"}
+{"ISO_3166_alpha2":"NL","ISO_3166_alpha3":"NLD","ISO_3166_numeric":"528","fips":"NL","Country":"The Netherlands","Capital":"Amsterdam","Area in km2":"41526.0","Population":"17231017","Continent":"EU"}
+{"ISO_3166_alpha2":"NO","ISO_3166_alpha3":"NOR","ISO_3166_numeric":"578","fips":"NO","Country":"Norway","Capital":"Oslo","Area in km2":"324220.0","Population":"5314336","Continent":"EU"}
+{"ISO_3166_alpha2":"NP","ISO_3166_alpha3":"NPL","ISO_3166_numeric":"524","fips":"NP","Country":"Nepal","Capital":"Kathmandu","Area in km2":"140800.0","Population":"28087871","Continent":"AS"}
+{"ISO_3166_alpha2":"NR","ISO_3166_alpha3":"NRU","ISO_3166_numeric":"520","fips":"NR","Country":"Nauru","Capital":"Yaren","Area in km2":"21.0","Population":"12704","Continent":"OC"}
+{"ISO_3166_alpha2":"NU","ISO_3166_alpha3":"NIU","ISO_3166_numeric":"570","fips":"NE","Country":"Niue","Capital":"Alofi","Area in km2":"260.0","Population":"2166","Continent":"OC"}
+{"ISO_3166_alpha2":"NZ","ISO_3166_alpha3":"NZL","ISO_3166_numeric":"554","fips":"NZ","Country":"New Zealand","Capital":"Wellington","Area in km2":"268680.0","Population":"4885500","Continent":"OC"}
+{"ISO_3166_alpha2":"OM","ISO_3166_alpha3":"OMN","ISO_3166_numeric":"512","fips":"MU","Country":"Oman","Capital":"Muscat","Area in km2":"212460.0","Population":"4829483","Continent":"AS"}
+{"ISO_3166_alpha2":"PA","ISO_3166_alpha3":"PAN","ISO_3166_numeric":"591","fips":"PM","Country":"Panama","Capital":"Panama City","Area in km2":"78200.0","Population":"4176873","Continent":"NA"}
+{"ISO_3166_alpha2":"PE","ISO_3166_alpha3":"PER","ISO_3166_numeric":"604","fips":"PE","Country":"Peru","Capital":"Lima","Area in km2":"1285220.0","Population":"31989256","Continent":"SA"}
+{"ISO_3166_alpha2":"PF","ISO_3166_alpha3":"PYF","ISO_3166_numeric":"258","fips":"FP","Country":"French Polynesia","Capital":"Papeete","Area in km2":"4167.0","Population":"277679","Continent":"OC"}
+{"ISO_3166_alpha2":"PG","ISO_3166_alpha3":"PNG","ISO_3166_numeric":"598","fips":"PP","Country":"Papua New Guinea","Capital":"Port Moresby","Area in km2":"462840.0","Population":"8606316","Continent":"OC"}
+{"ISO_3166_alpha2":"PH","ISO_3166_alpha3":"PHL","ISO_3166_numeric":"608","fips":"RP","Country":"Philippines","Capital":"Manila","Area in km2":"300000.0","Population":"106651922","Continent":"AS"}
+{"ISO_3166_alpha2":"PK","ISO_3166_alpha3":"PAK","ISO_3166_numeric":"586","fips":"PK","Country":"Pakistan","Capital":"Islamabad","Area in km2":"803940.0","Population":"212215030","Continent":"AS"}
+{"ISO_3166_alpha2":"PL","ISO_3166_alpha3":"POL","ISO_3166_numeric":"616","fips":"PL","Country":"Poland","Capital":"Warsaw","Area in km2":"312685.0","Population":"37978548","Continent":"EU"}
+{"ISO_3166_alpha2":"PM","ISO_3166_alpha3":"SPM","ISO_3166_numeric":"666","fips":"SB","Country":"Saint Pierre and Miquelon","Capital":"Saint-Pierre","Area in km2":"242.0","Population":"7012","Continent":"NA"}
+{"ISO_3166_alpha2":"PN","ISO_3166_alpha3":"PCN","ISO_3166_numeric":"612","fips":"PC","Country":"Pitcairn Islands","Capital":"Adamstown","Area in km2":"47.0","Population":"46","Continent":"OC"}
+{"ISO_3166_alpha2":"PR","ISO_3166_alpha3":"PRI","ISO_3166_numeric":"630","fips":"RQ","Country":"Puerto Rico","Capital":"San Juan","Area in km2":"9104.0","Population":"3195153","Continent":"NA"}
+{"ISO_3166_alpha2":"PS","ISO_3166_alpha3":"PSE","ISO_3166_numeric":"275","fips":"WE","Country":"Palestine","Capital":"East Jerusalem","Area in km2":"5970.0","Population":"4569087","Continent":"AS"}
+{"ISO_3166_alpha2":"PT","ISO_3166_alpha3":"PRT","ISO_3166_numeric":"620","fips":"PO","Country":"Portugal","Capital":"Lisbon","Area in km2":"92391.0","Population":"10281762","Continent":"EU"}
+{"ISO_3166_alpha2":"PW","ISO_3166_alpha3":"PLW","ISO_3166_numeric":"585","fips":"PS","Country":"Palau","Capital":"Melekeok","Area in km2":"458.0","Population":"17907","Continent":"OC"}
+{"ISO_3166_alpha2":"PY","ISO_3166_alpha3":"PRY","ISO_3166_numeric":"600","fips":"PA","Country":"Paraguay","Capital":"Asuncion","Area in km2":"406750.0","Population":"6956071","Continent":"SA"}
+{"ISO_3166_alpha2":"QA","ISO_3166_alpha3":"QAT","ISO_3166_numeric":"634","fips":"QA","Country":"Qatar","Capital":"Doha","Area in km2":"11437.0","Population":"2781677","Continent":"AS"}
+{"ISO_3166_alpha2":"RE","ISO_3166_alpha3":"REU","ISO_3166_numeric":"638","fips":"RE","Country":"R\u00e9union","Capital":"Saint-Denis","Area in km2":"2517.0","Population":"776948","Continent":"AF"}
+{"ISO_3166_alpha2":"RO","ISO_3166_alpha3":"ROU","ISO_3166_numeric":"642","fips":"RO","Country":"Romania","Capital":"Bucharest","Area in km2":"237500.0","Population":"19473936","Continent":"EU"}
+{"ISO_3166_alpha2":"RS","ISO_3166_alpha3":"SRB","ISO_3166_numeric":"688","fips":"RI","Country":"Serbia","Capital":"Belgrade","Area in km2":"88361.0","Population":"6982084","Continent":"EU"}
+{"ISO_3166_alpha2":"RU","ISO_3166_alpha3":"RUS","ISO_3166_numeric":"643","fips":"RS","Country":"Russia","Capital":"Moscow","Area in km2":"17100000.0","Population":"144478050","Continent":"EU"}
+{"ISO_3166_alpha2":"RW","ISO_3166_alpha3":"RWA","ISO_3166_numeric":"646","fips":"RW","Country":"Rwanda","Capital":"Kigali","Area in km2":"26338.0","Population":"12301939","Continent":"AF"}
+{"ISO_3166_alpha2":"SA","ISO_3166_alpha3":"SAU","ISO_3166_numeric":"682","fips":"SA","Country":"Saudi Arabia","Capital":"Riyadh","Area in km2":"1960582.0","Population":"33699947","Continent":"AS"}
+{"ISO_3166_alpha2":"SB","ISO_3166_alpha3":"SLB","ISO_3166_numeric":"090","fips":"BP","Country":"Solomon Islands","Capital":"Honiara","Area in km2":"28450.0","Population":"652858","Continent":"OC"}
+{"ISO_3166_alpha2":"SC","ISO_3166_alpha3":"SYC","ISO_3166_numeric":"690","fips":"SE","Country":"Seychelles","Capital":"Victoria","Area in km2":"455.0","Population":"96762","Continent":"AF"}
+{"ISO_3166_alpha2":"SD","ISO_3166_alpha3":"SDN","ISO_3166_numeric":"729","fips":"SU","Country":"Sudan","Capital":"Khartoum","Area in km2":"1861484.0","Population":"41801533","Continent":"AF"}
+{"ISO_3166_alpha2":"SE","ISO_3166_alpha3":"SWE","ISO_3166_numeric":"752","fips":"SW","Country":"Sweden","Capital":"Stockholm","Area in km2":"449964.0","Population":"10183175","Continent":"EU"}
+{"ISO_3166_alpha2":"SG","ISO_3166_alpha3":"SGP","ISO_3166_numeric":"702","fips":"SN","Country":"Singapore","Capital":"Singapore","Area in km2":"692.7","Population":"5638676","Continent":"AS"}
+{"ISO_3166_alpha2":"SH","ISO_3166_alpha3":"SHN","ISO_3166_numeric":"654","fips":"SH","Country":"Saint Helena","Capital":"Jamestown","Area in km2":"410.0","Population":"7460","Continent":"AF"}
+{"ISO_3166_alpha2":"SI","ISO_3166_alpha3":"SVN","ISO_3166_numeric":"705","fips":"SI","Country":"Slovenia","Capital":"Ljubljana","Area in km2":"20273.0","Population":"2067372","Continent":"EU"}
+{"ISO_3166_alpha2":"SJ","ISO_3166_alpha3":"SJM","ISO_3166_numeric":"744","fips":"SV","Country":"Svalbard and Jan Mayen","Capital":"Longyearbyen","Area in km2":"62049.0","Population":"2550","Continent":"EU"}
+{"ISO_3166_alpha2":"SK","ISO_3166_alpha3":"SVK","ISO_3166_numeric":"703","fips":"LO","Country":"Slovakia","Capital":"Bratislava","Area in km2":"48845.0","Population":"5447011","Continent":"EU"}
+{"ISO_3166_alpha2":"SL","ISO_3166_alpha3":"SLE","ISO_3166_numeric":"694","fips":"SL","Country":"Sierra Leone","Capital":"Freetown","Area in km2":"71740.0","Population":"7650154","Continent":"AF"}
+{"ISO_3166_alpha2":"SM","ISO_3166_alpha3":"SMR","ISO_3166_numeric":"674","fips":"SM","Country":"San Marino","Capital":"San Marino","Area in km2":"61.2","Population":"33785","Continent":"EU"}
+{"ISO_3166_alpha2":"SN","ISO_3166_alpha3":"SEN","ISO_3166_numeric":"686","fips":"SG","Country":"Senegal","Capital":"Dakar","Area in km2":"196190.0","Population":"15854360","Continent":"AF"}
+{"ISO_3166_alpha2":"SO","ISO_3166_alpha3":"SOM","ISO_3166_numeric":"706","fips":"SO","Country":"Somalia","Capital":"Mogadishu","Area in km2":"637657.0","Population":"15008154","Continent":"AF"}
+{"ISO_3166_alpha2":"SR","ISO_3166_alpha3":"SUR","ISO_3166_numeric":"740","fips":"NS","Country":"Suriname","Capital":"Paramaribo","Area in km2":"163270.0","Population":"575991","Continent":"SA"}
+{"ISO_3166_alpha2":"SS","ISO_3166_alpha3":"SSD","ISO_3166_numeric":"728","fips":"OD","Country":"South Sudan","Capital":"Juba","Area in km2":"644329.0","Population":"8260490","Continent":"AF"}
+{"ISO_3166_alpha2":"ST","ISO_3166_alpha3":"STP","ISO_3166_numeric":"678","fips":"TP","Country":"S\u00e3o Tom\u00e9 and Pr\u00edncipe","Capital":"Sao Tome","Area in km2":"1001.0","Population":"197700","Continent":"AF"}
+{"ISO_3166_alpha2":"SV","ISO_3166_alpha3":"SLV","ISO_3166_numeric":"222","fips":"ES","Country":"El Salvador","Capital":"San Salvador","Area in km2":"21040.0","Population":"6420744","Continent":"NA"}
+{"ISO_3166_alpha2":"SX","ISO_3166_alpha3":"SXM","ISO_3166_numeric":"534","fips":"NN","Country":"Sint Maarten","Capital":"Philipsburg","Area in km2":"21.0","Population":"40654","Continent":"NA"}
+{"ISO_3166_alpha2":"SY","ISO_3166_alpha3":"SYR","ISO_3166_numeric":"760","fips":"SY","Country":"Syria","Capital":"Damascus","Area in km2":"185180.0","Population":"16906283","Continent":"AS"}
+{"ISO_3166_alpha2":"SZ","ISO_3166_alpha3":"SWZ","ISO_3166_numeric":"748","fips":"WZ","Country":"Eswatini","Capital":"Mbabane","Area in km2":"17363.0","Population":"1136191","Continent":"AF"}
+{"ISO_3166_alpha2":"TC","ISO_3166_alpha3":"TCA","ISO_3166_numeric":"796","fips":"TK","Country":"Turks and Caicos Islands","Capital":"Cockburn Town","Area in km2":"430.0","Population":"37665","Continent":"NA"}
+{"ISO_3166_alpha2":"TD","ISO_3166_alpha3":"TCD","ISO_3166_numeric":"148","fips":"CD","Country":"Chad","Capital":"N'Djamena","Area in km2":"1284000.0","Population":"15477751","Continent":"AF"}
+{"ISO_3166_alpha2":"TF","ISO_3166_alpha3":"ATF","ISO_3166_numeric":"260","fips":"FS","Country":"French Southern Territories","Capital":"Port-aux-Francais","Area in km2":"7829.0","Population":"140","Continent":"AN"}
+{"ISO_3166_alpha2":"TG","ISO_3166_alpha3":"TGO","ISO_3166_numeric":"768","fips":"TO","Country":"Togo","Capital":"Lome","Area in km2":"56785.0","Population":"7889094","Continent":"AF"}
+{"ISO_3166_alpha2":"TH","ISO_3166_alpha3":"THA","ISO_3166_numeric":"764","fips":"TH","Country":"Thailand","Capital":"Bangkok","Area in km2":"514000.0","Population":"69428524","Continent":"AS"}
+{"ISO_3166_alpha2":"TJ","ISO_3166_alpha3":"TJK","ISO_3166_numeric":"762","fips":"TI","Country":"Tajikistan","Capital":"Dushanbe","Area in km2":"143100.0","Population":"9100837","Continent":"AS"}
+{"ISO_3166_alpha2":"TK","ISO_3166_alpha3":"TKL","ISO_3166_numeric":"772","fips":"TL","Country":"Tokelau","Capital":"","Area in km2":"10.0","Population":"1466","Continent":"OC"}
+{"ISO_3166_alpha2":"TL","ISO_3166_alpha3":"TLS","ISO_3166_numeric":"626","fips":"TT","Country":"Timor-Leste","Capital":"Dili","Area in km2":"15007.0","Population":"1267972","Continent":"OC"}
+{"ISO_3166_alpha2":"TM","ISO_3166_alpha3":"TKM","ISO_3166_numeric":"795","fips":"TX","Country":"Turkmenistan","Capital":"Ashgabat","Area in km2":"488100.0","Population":"5850908","Continent":"AS"}
+{"ISO_3166_alpha2":"TN","ISO_3166_alpha3":"TUN","ISO_3166_numeric":"788","fips":"TS","Country":"Tunisia","Capital":"Tunis","Area in km2":"163610.0","Population":"11565204","Continent":"AF"}
+{"ISO_3166_alpha2":"TO","ISO_3166_alpha3":"TON","ISO_3166_numeric":"776","fips":"TN","Country":"Tonga","Capital":"Nuku'alofa","Area in km2":"748.0","Population":"103197","Continent":"OC"}
+{"ISO_3166_alpha2":"TR","ISO_3166_alpha3":"TUR","ISO_3166_numeric":"792","fips":"TU","Country":"T\u00fcrkiye","Capital":"Ankara","Area in km2":"780580.0","Population":"82319724","Continent":"AS"}
+{"ISO_3166_alpha2":"TT","ISO_3166_alpha3":"TTO","ISO_3166_numeric":"780","fips":"TD","Country":"Trinidad and Tobago","Capital":"Port of Spain","Area in km2":"5128.0","Population":"1389858","Continent":"NA"}
+{"ISO_3166_alpha2":"TV","ISO_3166_alpha3":"TUV","ISO_3166_numeric":"798","fips":"TV","Country":"Tuvalu","Capital":"Funafuti","Area in km2":"26.0","Population":"11508","Continent":"OC"}
+{"ISO_3166_alpha2":"TW","ISO_3166_alpha3":"TWN","ISO_3166_numeric":"158","fips":"TW","Country":"Taiwan","Capital":"Taipei","Area in km2":"35980.0","Population":"23451837","Continent":"AS"}
+{"ISO_3166_alpha2":"TZ","ISO_3166_alpha3":"TZA","ISO_3166_numeric":"834","fips":"TZ","Country":"Tanzania","Capital":"Dodoma","Area in km2":"945087.0","Population":"56318348","Continent":"AF"}
+{"ISO_3166_alpha2":"UA","ISO_3166_alpha3":"UKR","ISO_3166_numeric":"804","fips":"UP","Country":"Ukraine","Capital":"Kyiv","Area in km2":"603700.0","Population":"44622516","Continent":"EU"}
+{"ISO_3166_alpha2":"UG","ISO_3166_alpha3":"UGA","ISO_3166_numeric":"800","fips":"UG","Country":"Uganda","Capital":"Kampala","Area in km2":"236040.0","Population":"42723139","Continent":"AF"}
+{"ISO_3166_alpha2":"UM","ISO_3166_alpha3":"UMI","ISO_3166_numeric":"581","fips":"","Country":"U.S. Outlying Islands","Capital":"","Area in km2":"0.0","Population":"0","Continent":"OC"}
+{"ISO_3166_alpha2":"US","ISO_3166_alpha3":"USA","ISO_3166_numeric":"840","fips":"US","Country":"United States","Capital":"Washington","Area in km2":"9629091.0","Population":"327167434","Continent":"NA"}
+{"ISO_3166_alpha2":"UY","ISO_3166_alpha3":"URY","ISO_3166_numeric":"858","fips":"UY","Country":"Uruguay","Capital":"Montevideo","Area in km2":"176220.0","Population":"3449299","Continent":"SA"}
+{"ISO_3166_alpha2":"UZ","ISO_3166_alpha3":"UZB","ISO_3166_numeric":"860","fips":"UZ","Country":"Uzbekistan","Capital":"Tashkent","Area in km2":"447400.0","Population":"32955400","Continent":"AS"}
+{"ISO_3166_alpha2":"VA","ISO_3166_alpha3":"VAT","ISO_3166_numeric":"336","fips":"VT","Country":"Vatican City","Capital":"Vatican City","Area in km2":"0.4","Population":"921","Continent":"EU"}
+{"ISO_3166_alpha2":"VC","ISO_3166_alpha3":"VCT","ISO_3166_numeric":"670","fips":"VC","Country":"St Vincent and Grenadines","Capital":"Kingstown","Area in km2":"389.0","Population":"110211","Continent":"NA"}
+{"ISO_3166_alpha2":"VE","ISO_3166_alpha3":"VEN","ISO_3166_numeric":"862","fips":"VE","Country":"Venezuela","Capital":"Caracas","Area in km2":"912050.0","Population":"28870195","Continent":"SA"}
+{"ISO_3166_alpha2":"VG","ISO_3166_alpha3":"VGB","ISO_3166_numeric":"092","fips":"VI","Country":"British Virgin Islands","Capital":"Road Town","Area in km2":"153.0","Population":"29802","Continent":"NA"}
+{"ISO_3166_alpha2":"VI","ISO_3166_alpha3":"VIR","ISO_3166_numeric":"850","fips":"VQ","Country":"U.S. Virgin Islands","Capital":"Charlotte Amalie","Area in km2":"352.0","Population":"106977","Continent":"NA"}
+{"ISO_3166_alpha2":"VN","ISO_3166_alpha3":"VNM","ISO_3166_numeric":"704","fips":"VM","Country":"Vietnam","Capital":"Hanoi","Area in km2":"329560.0","Population":"95540395","Continent":"AS"}
+{"ISO_3166_alpha2":"VU","ISO_3166_alpha3":"VUT","ISO_3166_numeric":"548","fips":"NH","Country":"Vanuatu","Capital":"Port Vila","Area in km2":"12200.0","Population":"292680","Continent":"OC"}
+{"ISO_3166_alpha2":"WF","ISO_3166_alpha3":"WLF","ISO_3166_numeric":"876","fips":"WF","Country":"Wallis and Futuna","Capital":"Mata Utu","Area in km2":"274.0","Population":"16025","Continent":"OC"}
+{"ISO_3166_alpha2":"WS","ISO_3166_alpha3":"WSM","ISO_3166_numeric":"882","fips":"WS","Country":"Samoa","Capital":"Apia","Area in km2":"2944.0","Population":"196130","Continent":"OC"}
+{"ISO_3166_alpha2":"XK","ISO_3166_alpha3":"XKX","ISO_3166_numeric":"0","fips":"KV","Country":"Kosovo","Capital":"Pristina","Area in km2":"10908.0","Population":"1845300","Continent":"EU"}
+{"ISO_3166_alpha2":"YE","ISO_3166_alpha3":"YEM","ISO_3166_numeric":"887","fips":"YM","Country":"Yemen","Capital":"Sanaa","Area in km2":"527970.0","Population":"28498687","Continent":"AS"}
+{"ISO_3166_alpha2":"YT","ISO_3166_alpha3":"MYT","ISO_3166_numeric":"175","fips":"MF","Country":"Mayotte","Capital":"Mamoudzou","Area in km2":"374.0","Population":"279471","Continent":"AF"}
+{"ISO_3166_alpha2":"ZA","ISO_3166_alpha3":"ZAF","ISO_3166_numeric":"710","fips":"SF","Country":"South Africa","Capital":"Pretoria","Area in km2":"1219912.0","Population":"57779622","Continent":"AF"}
+{"ISO_3166_alpha2":"ZM","ISO_3166_alpha3":"ZMB","ISO_3166_numeric":"894","fips":"ZA","Country":"Zambia","Capital":"Lusaka","Area in km2":"752614.0","Population":"17351822","Continent":"AF"}
+{"ISO_3166_alpha2":"ZW","ISO_3166_alpha3":"ZWE","ISO_3166_numeric":"716","fips":"ZI","Country":"Zimbabwe","Capital":"Harare","Area in km2":"390580.0","Population":"14439018","Continent":"AF"}
