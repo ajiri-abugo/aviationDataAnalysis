@@ -1,0 +1,8 @@
+#Ignore sensitive data
+env.py
+
+#Ignore build and compilation files
+**/__pycache__/
+
+#Ignore notebooks
+*.ipynb
