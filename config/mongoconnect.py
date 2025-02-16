@@ -1,11 +1,16 @@
+import os
+from dotenv import load_dotenv
 from pymongo import MongoClient
 from urllib.parse import quote_plus
+
+#load environment variables from .env file
+load_dotenv()
 
 # MongoDB connection details
 host = "127.0.0.1"
 port = 27017
-username = "ajiri"
-password = "ajiri23@24"
+username = os.getenv('MONGO_USER')
+password = os.getenv('MONGO_PWD')
 database = "travelagency"
 
 # Encode password to handle special characters
