@@ -1,5 +1,4 @@
 #Ignore sensitive data
-env.py
 .env
 
 #Ignore build and compilation files
@@ -9,3 +8,6 @@ env.py
 
 #Ignore notebooks
 *.ipynb
+
+#ignore notes
+.txt
