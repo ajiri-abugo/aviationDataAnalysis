@@ -1,5 +1,6 @@
 #Ignore sensitive data
 env.py
+secrets.env
 
 #Ignore build and compilation files
 **/__pycache__/
