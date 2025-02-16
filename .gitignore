@@ -4,6 +4,8 @@ env.py
 
 #Ignore build and compilation files
 **/__pycache__/
+**/.ipynb_checkpoints/
+**/.jupyter/desktop-workspaces/
 
 #Ignore notebooks
 *.ipynb
