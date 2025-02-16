@@ -1,3 +1,0 @@
-load data local infile "/home/ajiri/project/aviationDataAnalysis/data/airport_list.csv" into table airport_list fields terminated by',' lines terminated
-by '\n' ignore 1 lines (@dummy, @dummy, airport_id, iata_code, city_iata_code, icao_code, country_iso2, @dummy, @dummy, @dummy, airport_name, country_name, @dummy, timezone);
-
