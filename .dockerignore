@@ -1,0 +1,8 @@
+# Ignore unnecessary files
+docs/                # Documentation (not needed in the container)
+data/                # Large raw datasets (unless required)
+__pycache__/         # Python cache files
+*.pyc                # Compiled Python files
+*.log                # Log files
+.git/                # Git history (if you’re copying the whole repo)
+.env                 # Environment variables (handle via secrets)
