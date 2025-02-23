@@ -29,6 +29,7 @@ def get_mongo_db():
         return db, client  # Returns the database object and client
     except pymongo.errors.ConnectionFailure as e:
         print(f"Error: {e}")
+        print("could not connect to mongo database")
 
 if __name__ == "__main__":
     get_mongo_db()
