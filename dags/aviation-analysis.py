@@ -1,1 +1,0 @@
-/home/ajiri/airflow/dags/aviation-analysis.py
