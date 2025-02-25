@@ -10,11 +10,16 @@ COPY tests/	/app/tests/
 COPY config/	/app/config/
 COPY data/	/app/data/
 COPY dags/	/app/dags/
-COPY requirements.txt .
+COPY require.txt .
 
 # Install dependencies
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --upgrade pip
+RUN apt-get update && apt-get install -y \
+    libpq-dev gcc build-essential python3-dev \
+    && rm -rf /var/lib/apt/lists/*
+RUN pip install --no-binary psycopg2 psycopg2
+RUN pip install --no-cache -r require.txt
 
 # Set to run DAG Script
-CMD ["airflow", "scheduler"]
+CMD ["python", "/app/dags/aviation-analysis-run.py"]
 
