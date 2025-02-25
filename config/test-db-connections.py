@@ -4,19 +4,19 @@ import mysql.connector
 from pymongo import MongoClient
 
 # Load environment variables
-POSTGRES_HOST = os.getenv("POSTGRES_HOST", "host.docker.internal")
+POSTGRES_HOST = os.getenv("POSTGRES_HOST", "localhost")
 POSTGRES_PORT = int(os.getenv("POSTGRES_PORT", 5432))
 POSTGRES_DB = os.getenv("POSTGRES_DB", "testdb")
 POSTGRES_USER = os.getenv("POSTGRES_USER")
 POSTGRES_PWD = os.getenv("POSTGRES_PWD")
 
-MYSQL_HOST = os.getenv("MYSQL_HOST", "host.docker.internal")
+MYSQL_HOST = os.getenv("MYSQL_HOST", "localhost")
 MYSQL_PORT = int(os.getenv("MYSQL_PORT", 3306))
 MYSQL_DB = os.getenv("MYSQL_DB", "testdb")
 MYSQL_USER = os.getenv("MYSQL_USER")
 MYSQL_PWD = os.getenv("MYSQL_PWD")
 
-MONGO_HOST = os.getenv("MONGO_HOST", "host.docker.internal")
+MONGO_HOST = os.getenv("MONGO_HOST", "localhost")
 MONGO_PORT = int(os.getenv("MONGO_PORT", 27017))
 MONGO_DB = os.getenv("MONGO_DB", "testdb")
 MONGO_USER = os.getenv("MONGO_USER")
