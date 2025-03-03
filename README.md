@@ -22,17 +22,18 @@ Other Tools: Docker (Containers), .env files for environment variables
 
 aviationDataAnalysis/
 ├── etl/
-│   ├── extract/
-│   │   └── api_scraper.py
-│   ├── load/
-│   │   └── airports_datalake.py
-│   └── transform/
-│       └── routes_cleaning.py
+│       ├── extract/
+│       │           └── api_scraper.py
+│       ├── load/
+│       │   └── airports-datalake.py
+|       |   
+│       └── transform/
+│                     └── routes_cleaning.py
 ├── config/
-│   ├── __init__.py
-│   ├── dbconnect.py
-│   ├── mongoconnect.py
-│   └── mysqlconnect.py
+│           ├── __init__.py
+│           ├── dbconnect.py
+│           ├── mongoconnect.py
+│           └── mysqlconnect.py
 ├── logs/
 │   └── data_quality.log
 ├── docker-compose.yml
